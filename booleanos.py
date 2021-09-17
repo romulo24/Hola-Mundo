@@ -1,3 +1,7 @@
+# Programacion con Python
+# Autor: Estudiante Torres LLivipuma Romulo Jesus <rtorresll@est.ups.edu.ec>
+# Universidad Politecnica Salesiana
+
 #Operaciones logicas
 
 #Booleano
