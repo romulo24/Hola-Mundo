@@ -8,7 +8,7 @@ x=10
 #Declaracion de la segunda variable
 y=25
 
-#Serie de operaciones numericas 
+#Serie de operaciones numericas
 s=x+y #Suma
 r=x-y #Resta
 m=x*y #Multiplicacion
@@ -30,3 +30,18 @@ print(s**(2)) #El valor de la suma de x and y elevado al cuadrado
 print(x//y)
 #Valor restante
 print(x%y)
+
+
+#Declaracion de cadena de caracteres
+v_string= ' Me llamo Romulo Jesus Torres Llivipuma'
+str='Hola mundo'
+print(v_string)
+
+#Concatenacion de cadena de caracteres
+print(str+v_string)
+#La funcion type recibe un argumento o variable y retorna el tipo de variable al que pertenece
+print(type(v_string))
+
+#Convertir un valor de tipo Str a un valor numeico
+print(5+int('10'))
+print(int('24')+1)
